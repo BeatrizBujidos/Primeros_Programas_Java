@@ -1,3 +1,2 @@
-# Al sincronizar el reposistorio, vamos a ignorar los archivos con código objeto
-
+# Cuando sincronicemos nuestro repositorio, vamos a ignorar los archivos
 *.txt
