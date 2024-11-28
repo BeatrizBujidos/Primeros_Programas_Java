@@ -15,4 +15,4 @@ Página oficial de [Java] (https://www.java.com/es/)
 
 
 ## Alumno propietario del Repositorio:
-Beatriz Bujidos Hernández :thumbs_up:
+Beatriz Bujidos Hernández :relaxed:
